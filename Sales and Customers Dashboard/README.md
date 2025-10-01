@@ -1,4 +1,6 @@
-![Cover Image]([./cover.jpg))
+<p align="center">
+  <img src="./cover.jpg" alt="Cover" width="300" height="200"/>
+</p>
 
 # Sales & Customer Performance Dashboards 
 
@@ -65,7 +67,7 @@ To achieve these dashboards, I created several **calculated fields** and **param
 ## 📌 Key Takeaways
 This project demonstrates:
 - The ability to build **dynamic Tableau dashboards** aligned with business requirements.  
-- Proficiency in **calculated fields, parameters, and YoY analysis**.  
+- Proficiency in **calculated fields and parameters**.  
 - Skills in **data storytelling** to support decision-making.  
 
 ---
